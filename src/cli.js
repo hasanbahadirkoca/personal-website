@@ -9,8 +9,8 @@ const errors = {
 };
 
 const struct = {
-  root: ['about', 'resume', 'contact', 'talks'],
-  skills: ['proficient', 'familiar'],
+  root: ['about', 'contact'],
+  //skills: ['proficient', 'familiar'],
 };
 
 const commands = {};
